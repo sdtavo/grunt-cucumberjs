@@ -45,7 +45,7 @@
     "grunt-jsbeautifier": "^0.2.10"
   },
   "peerDependencies": {
-    "grunt": "~0.4.5"
+    "grunt": ">=0.4.5"
   },
   "bugs": {
     "url": "https://github.com/mavdi/grunt-cucumberjs/issues"
